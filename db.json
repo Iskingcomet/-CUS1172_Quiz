@@ -81,7 +81,7 @@
     "id":11,
     "questionType": "multiple_Choice",
     "questionText": "Which of the following is not a type of Constructor in C++?",
-    "Choice_1": ["Default constructor","Parameterized constructor", "Copy constructor","Friend constructor"],
+    "options": ["Default constructor","Parameterized constructor", "Copy constructor","Friend constructor"],
     "correctAnswer": "Friend constructor"
     },
     {
