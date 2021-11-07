@@ -10,7 +10,7 @@
     {
     "id":1,
     "questionType": "multiple_Choice",
-    "QuestionText": "A person who uses his expertise to gain access of other’s computer illegally is known as …",
+    "questionText": "A person who uses his expertise to gain access of other’s computer illegally is known as …",
     "correctAnswer": "Hacker",
     "options": ["Programmer","Hacker","Spammer","Hobbyist"]
     },
@@ -86,6 +86,7 @@
     },
     {
     "id":12,
+    "questionType" : "true_false",    
     "questionText": " The statements inside an if statement are contained by the same curly braces used to contain the statements in a function.",
     "options": ["True","False"],
     "correctAnswer": "True"
